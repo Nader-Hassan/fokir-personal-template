@@ -1,0 +1,1408 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) 
+{
+    .contanier
+    {
+        width:90%
+    }
+    /* nav */
+    .fokir-logo
+{
+    padding-left: 20px;
+}
+.nav-list
+{
+    padding-top: 15px;
+    padding-right: 0px;
+}
+.nav-list li 
+{
+    padding: 5px;
+}
+.nav-list li a 
+{
+    Font-size: 14px;
+}
+.nav-contanier
+{
+    width: 100%;
+}
+    /*home */
+    .pHome h1
+{
+    Font-size:38px;
+    padding-top: 10px;
+}
+.pHome h4
+{
+    Font-size: 18px;
+    Font-weight: 600;
+}
+.pHome p
+{
+    Font-size: 18px;
+    Font-weight: 600;
+    padding-top: 10px;
+}
+/* about */
+#about
+{
+    padding: 70px 0;
+}
+.about-profile
+{
+    width: 100%;
+}
+.about-caption
+{
+ 
+    width:100%;
+    padding-left: 0px;
+    padding-top: 50px;
+}
+.about-photo
+{
+    box-shadow: 0 0 0 0px #555555;
+}
+.about-overlay
+{
+    transform: translate(0px,0px);
+}
+.about-photo img
+{
+    transform: translate(0px,0px);
+}
+.plist li
+{
+    width: 100%;
+}
+/* services */
+.service
+{
+    padding: 70px 0;
+}
+.product-service 
+{
+    width: 100%;
+}
+.service-text h2
+{
+    Font-size: 32px;
+}
+/* portfolio */
+
+.portflio-area
+{
+    padding: 70x 0;
+}
+.port-box 
+{
+    
+    width: 100%;
+}
+.portflio-text h2
+{
+    font-size: 32px;
+}
+/* fun facts */
+.fun-facts
+{
+    padding: 60px 0 30px;
+}
+.fact1
+{
+    width: 100%;
+}
+.special-num
+{
+    padding:10px 0;
+}
+.special-text
+{
+    padding-top: 0px;
+}
+.fact1 i
+{
+    padding-top: 20px;
+}
+/* feed */
+.testimonial-area
+{
+    padding: 70px 0; 
+}
+.contanier1
+{
+    width:100%;
+}
+.testimonial-text h2
+{
+    Font-size: 32px;
+}
+.testimonial-photo
+{
+    position: absolute;
+    float: left;
+    width: 50%;
+    margin: 40px 30px;
+}
+.testimonial-photo img
+{
+    border-radius: 100px;
+    width: 50%;  
+}
+.test-text{
+    width: 100%;
+    padding: 25px;
+    margin-right: 0px;
+    margin-top: 140px;
+}
+/* blog */
+.blog-area
+{
+    padding: 70px 0; 
+}
+.blog-text h2
+{
+    Font-size: 32px;
+}
+.part1
+{
+    width: 100%;
+}
+/* contact us */
+.contact-us
+{
+    padding: 70px 0; 
+}
+.contact-us h2
+{
+    Font-size: 32px;
+}
+.contact-form
+{
+    width: 100%;
+}
+.form-control
+{
+    margin:10px 0px;
+}
+.w-50
+{
+    width: 100%;
+}
+.form-btn
+{
+    width:35%
+}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .contanier
+    {
+        width:70%
+    }
+    /* nav */
+    .fokir-logo
+{
+    padding-left: 20px;
+}
+.nav-list
+{
+    padding-top: 15px;
+    padding-right: 0px;
+}
+.nav-list li 
+{
+    padding: 5px;
+}
+.nav-list li a 
+{
+    Font-size: 14px;
+}
+.nav-contanier
+{
+    width: 100%;
+}
+    /*home */
+    .pHome h1
+{
+    Font-size:38px;
+    padding-top: 10px;
+}
+.pHome h4
+{
+    Font-size: 18px;
+    Font-weight: 600;
+}
+.pHome p
+{
+    Font-size: 18px;
+    Font-weight: 600;
+    padding-top: 10px;
+}
+/* about */
+#about
+{
+    padding: 70px 0;
+}
+.about-profile
+{
+    width: 100%;
+}
+.about-caption
+{
+ 
+    width:100%;
+    padding-left: 0px;
+    padding-top: 50px;
+}
+.about-photo
+{
+    box-shadow: 0 0 0 0px #555555;
+}
+.about-overlay
+{
+    transform: translate(0px,0px);
+}
+.about-photo img
+{
+    transform: translate(0px,0px);
+}
+.plist li
+{
+    width: 100%;
+}
+/* services */
+.service
+{
+    padding: 70px 0;
+}
+.product-service 
+{
+    width: 100%;
+}
+.service-text h2
+{
+    Font-size: 32px;
+}
+/* portfolio */
+
+.portflio-area
+{
+    padding: 70x 0;
+}
+.port-box 
+{
+    
+    width: 100%;
+}
+.portflio-text h2
+{
+    font-size: 32px;
+}
+/* fun facts */
+.fun-facts
+{
+    padding: 60px 0 30px;
+}
+.fact1
+{
+    width: 100%;
+}
+.special-num
+{
+    padding:10px 0;
+}
+.special-text
+{
+    padding-top: 0px;
+}
+.fact1 i
+{
+    padding-top: 20px;
+}
+/* feed */
+.testimonial-area
+{
+    padding: 70px 0; 
+}
+.contanier1
+{
+    width:100%;
+}
+.testimonial-text h2
+{
+    Font-size: 32px;
+}
+.testimonial-photo
+{
+    position: absolute;
+    float: left;
+    width: 50%;
+    margin: 40px 30px;
+}
+.testimonial-photo img
+{
+    border-radius: 100px;
+    width: 50%;  
+}
+.test-text{
+    width: 100%;
+    padding: 25px;
+    margin-right: 0px;
+    margin-top: 140px;
+}
+/* blog */
+.blog-area
+{
+    padding: 70px 0; 
+}
+.blog-text h2
+{
+    Font-size: 32px;
+}
+.part1
+{
+    width: 100%;
+}
+/* contact us */
+.contact-us
+{
+    padding: 70px 0; 
+}
+.contact-us h2
+{
+    Font-size: 32px;
+}
+.contact-form
+{
+    width: 100%;
+}
+.form-control
+{
+    margin:10px 0px;
+}
+.w-50
+{
+    width: 100%;
+}
+.form-btn
+{
+    width:35%
+}
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .contanier
+    {
+        width:90%
+    }
+    /* nav */
+    .fokir-logo
+{
+    padding-left: 20px;
+}
+.nav-list
+{
+    padding-top: 15px;
+    padding-right: 15px;
+}
+.nav-list li 
+{
+    padding: 10px;
+}
+.nav-list li a 
+{
+    Font-size: 16px;
+}
+.nav-contanier
+{
+    width: 100%;
+}
+    /*home */
+    .pHome h1
+{
+    Font-size:70px;
+    padding-top: 10px;
+}
+.pHome h4
+{
+    Font-size: 24px;
+    Font-weight: 600;
+}
+.pHome p
+{
+    Font-size: 26px;
+    Font-weight: 300;
+    padding-top: 10px;
+}
+/* about */
+#about
+{
+    padding: 70px 0;
+}
+.about-profile
+{
+    width: 30%;
+    margin-left: 60px;
+}
+.about-caption
+{
+    width:60%;
+    padding-left: 100px;
+    padding-top: 0px;
+}
+.about-photo
+{
+    box-shadow: 0 0 0 0px #555555;
+}
+.about-overlay
+{
+    transform: translate(0px,0px);
+}
+.about-photo img
+{
+    transform: translate(0px,0px);
+}
+.plist li
+{
+    width: 50%;
+    font-size: 14px;
+   padding-top: 10px;
+}
+.plist
+{
+    margin-top: 10px;
+    font-size: 14px;
+}
+.plist li span
+{
+    color: rgb(85, 85, 85);
+    font-weight: 400;
+    font-size: 14px;
+}
+.plist li a
+{
+    Font-family: Roboto, sans-serif;
+    Font-size: 14px;
+    Font-weight: 400;
+    color: rgb(85, 85, 85);
+}
+/* services */
+.service
+{
+    padding: 70px 0;
+}
+.product-service 
+{
+    width: 50%;
+}
+.service-text h2
+{
+    Font-size: 32px;
+}
+/* portfolio */
+
+.portflio-area
+{
+    padding: 70x 0;
+}
+.port-box 
+{
+    
+    width: 50%;
+}
+.portflio-text h2
+{
+    font-size: 32px;
+}
+/* fun facts */
+.fun-facts
+{
+    padding: 60px 0 30px;
+}
+.fact1
+{
+    width: 25%;
+}
+.special-num
+{
+    padding:10px 0;
+}
+.special-text
+{
+    padding-top: 0px;
+}
+.fact1 i
+{
+    padding-top: 20px;
+}
+/* feed */
+.testimonial-area
+{
+    padding: 70px 0; 
+}
+.contanier1
+{
+    width:100%;
+}
+.testimonial-text h2
+{
+    Font-size: 32px;
+}
+.testimonial-photo
+{
+    width: 15%;
+}
+.testimonial-photo img
+{
+    width: 100%;  
+}
+.test-text{
+    width: 85%;
+    padding: 25px;
+    margin-left: 150px;
+    margin-top: 0px;
+}
+/* blog */
+.blog-area
+{
+    padding: 70px 0; 
+}
+.blog-text h2
+{
+    Font-size: 32px;
+}
+.part1
+{
+    width: 33.333%;
+}
+/* contact us */
+.contact-us
+{
+    padding: 70px 0; 
+}
+.contact-us h2
+{
+    Font-size: 32px;
+}
+.contact-form
+{
+    width: 90%;
+}
+.form-control
+{
+    margin:10px 0px;
+}
+.w-50
+{
+    width:48%;
+}
+.form-btn
+{
+    width:20%
+}
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+    *
+    {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    ul,a,li
+    {
+        text-decoration: none;
+        list-style: none;
+    
+    }
+    .clr
+    {
+        clear: both;
+    }
+    .contanier
+    {
+        width:60%;
+        margin:auto;
+    }
+    .lines
+    {
+        background-color:#ff305b;
+        height: 1px;
+        width: 160px;
+        margin: auto;
+        position: relative;
+        margin-top: 10px;
+    }
+    .lines::before
+    {
+        content:"";
+        position: absolute;
+        left: 25%;
+        top:-5px;
+        background-color: #ff305b;
+        width: 50%;
+        height: 1px;
+    }
+    .lines::after
+    {
+        content:"";
+        position: absolute;
+        left: 25%;
+        top:5px;
+        background-color: #ff305b;
+        width: 50%;
+        height: 1px;
+    }
+    /* *********************************************** */
+    
+    /*=============================================== start nav bar==================================================== */
+    .nav-contanier
+    {
+        margin: auto;
+    }
+    .fokir-logo
+    {
+        float:left;
+        padding-top: 15px;
+        padding-left: 90px;
+    }
+    .fokir-logo a
+    {
+        font-family: Roboto, sans-serif;
+        Font-size: 24px;
+        Font-weight: 800;
+        color: rgba(255, 48, 91,0.9);
+    }
+    .nav-list
+    {
+        float:right;
+        padding-top: 10px;
+        padding-right: 100px;
+    }
+    .nav-list li 
+    {
+        float: left;
+        padding: 12px;
+    }
+    .nav-list li a 
+    {
+        font-family: Roboto, sans-serif;
+        Font-size: 16px;
+        Font-weight: 300;
+        color: rgb(255, 255, 255);
+        transition: all 0.4s ease-in-out 0s;
+    }
+    .nav-list li a:hover
+    {
+        color:#ff305b;
+    }
+    
+    /*=============================================== End nav bar==================================================== */
+    
+    
+    
+    
+    /*================================================= start home section============================================= */
+    .portflio
+    {
+        background-image: url(../images/slider/slider-01.jpg);
+        background-position: center center;
+        background-size: cover;
+        height: 100vh;
+        
+    }
+    .overlay
+    {
+        background-color: rgba(0, 0, 0,0.8);
+        width: 100%;
+        height: 100%;
+    }
+    
+    .home-container
+    {
+        width: 80%;
+        margin: auto;
+        padding-top: 360px;
+        
+    }
+    .pHome
+    {
+        text-align: center;
+    }
+    .pHome h4
+    {
+        font-family: "Source Sans Pro", sans-serif;
+        Font-size: 24px;
+        Font-weight: 600;
+        color: rgb(255, 255, 255);
+    }
+    .pHome h1
+    {
+        font-family: "Source Sans Pro", sans-serif;
+        Font-size: 70px;
+        Font-weight: 700;
+        padding-top: 10px;
+        color: rgb(255, 48, 91);
+    }
+    .pHome p
+    {
+        font-family: "Source Sans Pro", sans-serif;
+        Font-size: 26px;
+        
+        padding-top: 20px;
+        color: rgb(255, 255, 255);
+    }
+    /*================================================= End home section============================================= */
+    
+    
+    /*================================================= start about section============================================= */
+    #about
+    {
+        padding: 100px 0;
+    }
+    .about-profile
+    {
+        float:left;
+        width: 35%;
+        margin-left: 0;
+    }
+    .about-photo
+    {
+        box-shadow: 0 0 0 8px #555555;
+        border-radius: 5px;
+        position: relative;
+    }
+    .about-photo:hover .about-overlay
+    {
+        visibility: visible;
+        opacity: 1;
+        height: 100%;
+    }
+    .about-overlay
+    {
+        background-color: rgba(0, 0, 0,0.57);
+        width: 100%;
+        height: 0%;
+        position: absolute;
+        bottom: 0;
+        transform: translate(20px,20px);
+        border-radius: 5px;
+        visibility:hidden ;
+        transition: all 0.5s ease-in-out;
+        opacity: 0;
+    }
+    .about-social
+    {
+        position: absolute;
+        top: 50%;
+        left:50%;
+        transform: translate(-50%,-50%);   
+    }
+    .about-social li
+    {
+        display: inline-block;
+        padding:0 10px;
+        
+    }
+    .about-social li a
+    {
+        color: #fff;
+        transition: all 0.3s ease-in-out;
+        
+    }
+    .about-social li a:hover
+    {
+        color: #ff305b;
+    }
+    .about-photo img
+    {
+        width: 100%;
+        transform: translate(20px,20px);
+        border-radius: 5px;
+        
+    }
+    .about-caption
+    {
+        float:left;
+        width:65%;
+        padding-left: 100px;
+    }
+    .about-caption h2
+    {
+        Font-family: "Source Sans Pro", sans-serif;
+        Font-size: 34px;
+        Font-weight: 600;
+        color: rgb(51, 51, 51);
+        position: relative;
+        line-height: 22px;
+        padding-left: 15px;
+    }
+    .about-caption h2::before
+    {
+        content: "";
+        position: absolute;
+        width: 4px;
+        height: 100%;
+        background: #ff305b;
+        left: 0;
+        top:0;
+    }
+    .about-caption p 
+    {
+        font-family: Roboto, sans-serif;
+        Font-size: 16px;
+        Font-weight: 400;
+        Line-height: 25px;
+        padding:15px 0;
+        color: rgb(85, 85, 85);
+        border-bottom: 1px dashed grey;
+    }
+    .plist li
+    {
+        float: left;
+        width: 50%;
+        font-family: Roboto, sans-serif;
+        Font-size: 16px;
+        Font-weight: 500;
+        color: rgb(51, 51, 51);
+        padding-top: 16px;
+    }
+    .plist
+    {
+        margin-top: 10px;
+    }
+    .plist li span
+    {
+        color: rgb(85, 85, 85);
+        font-weight: 400;
+    }
+    .plist li a
+    {
+        Font-family: Roboto, sans-serif;
+        Font-size: 16px;
+        Font-weight: 400;
+        color: rgb(85, 85, 85);
+    }
+    .about-btn
+    {
+        margin-top: 40px;
+    }
+    
+    .about-btn button:hover
+    {
+        background-color: #EC2403;
+    }
+    .about-btn a i
+    {
+        padding-left: 10px;
+    }
+    .about-btn button
+    {
+        background: #ff305b;
+        border-radius: 4px;
+        color: #ffffff;
+        padding: 15px 24px;
+        transition: all 0.3s ease-in-out;
+        font-family: Roboto, sans-serif ;
+        margin-right: 10px;
+        font-size: 16px;
+        border: none;
+    }
+    .about-btn a
+    {
+        color: #ffffff;
+    }
+    
+    /*================================================= End about section============================================= */
+    
+    /*================================================= start service section============================================= */
+    
+    .service
+    {
+        padding: 100px 0;
+        background-color: #f1f1f1;
+    }
+    .service-list
+    {
+        margin-top: 30px;
+    }
+    .service-text h2
+    {
+        font-family: "Source Sans Pro", sans-serif;
+        Font-size: 40px;
+        Font-weight: 800;
+        color: rgb(51, 51, 51);
+        text-align: center;
+        position: relative;
+        
+    }
+    .product-service 
+    {
+        float: left;
+        width: 25%;
+        text-align: center;
+        padding: 0 15px;
+        transition: all 0.3s ease-in-out;
+    }
+    .product-service:hover
+    {
+        background-color: #fff;
+        box-shadow: 0 15px 20px rgba(0, 0, 0, 0.1);
+        border-radius: 3px;
+    }
+    .product-service:hover i
+    {
+        transform: scale(1.2,1.2);
+    }
+    .product-service h3
+    {
+        font-family: "Source Sans Pro", sans-serif;
+        Font-size: 24px;
+        Font-weight: 600;
+        color: rgb(51, 51, 51);
+        padding: 10px 0;
+    }
+    .product-service p
+    {
+        Font-family: Roboto, sans-serif;
+        Font-size: 16px;
+        Font-weight: 400;
+        Line-height: 25px;
+        color: rgb(85, 85, 85);
+        padding: 10px 0;
+        padding-bottom:40px ;
+    }
+    .product-service i
+    {
+        color: #ff305b;
+        Font-size: 30px;
+        padding: 10px 0;
+        padding-top: 40px;
+        transition: all 0.3s ease-in-out;
+    }
+    /*================================================= End service section============================================= */
+    
+    
+    /*================================================= start portflio area section============================================= */
+    .portflio-area
+    {
+        padding: 100px 0;
+    }
+    .port-box 
+    {
+        float: left;
+        width: 33.3333%;
+        padding:15px;
+    }
+    .portph
+    {
+        position: relative;
+    }
+    .pro-overlay
+    {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0,0.4);
+        top:0;
+        visibility:hidden;
+        opacity:0;
+        transition: all 0.3s ease-in-out;
+       
+    }
+    .pro-icon
+    {
+        position: absolute;
+        bottom:15px;
+        right:15px;
+        font-size: 20px;
+        color: #ff305b;
+        visibility: hidden;
+        opacity:0;
+        transition: all 0.4s ease-in-out;
+    }
+    .portph:hover .pro-overlay, .portph:hover .pro-icon
+    {
+       visibility: visible;
+       opacity:1;
+    }
+    .portflio-text h2
+    {
+        Font-family: "Source Sans Pro", sans-serif;
+        Font-size: 40px;
+        Font-weight: 800;
+        color: rgb(51, 51, 51);
+        text-align: center;
+    }
+    .portflio-list 
+    {
+        text-align: center;
+    }
+    .portflio-list a
+    {
+        padding: 0 10px;
+        Font-family: Roboto, sans-serif;
+        Font-size: 16px;
+        Font-weight: 400;
+        color: rgb(51, 51, 51);
+    }
+    
+    .portflio-list 
+    {
+      margin-top: 70px;
+    }
+    
+    .portflio-photos
+    {
+        margin-top: 40px;
+        padding-bottom: 50px;
+        
+    }
+    .portph img
+    {
+        width: 100%;
+    }
+    
+    /*================================================= End portflio area section============================================= */
+    
+    /*================================================= Start fun facts section============================================= */
+    .fun-facts
+    {
+        padding: 100px 0;
+        background-color:#f1f1f1;
+        
+    }
+    .fact1
+    {
+        float: left;
+        width: 25%;
+        text-align: center;
+    }
+    .fact1 i
+    {
+        Font-size: 26px;
+        color:#ff305b;
+        
+    }
+    .special-num
+    {
+        Font-family: "Source Sans Pro", sans-serif;
+        Font-size: 26px;
+        Font-weight: 800;
+        color: rgb(51, 51, 51);
+        padding-top: 10px;
+    }
+    .special-text
+    {
+        Font-family: "Source Sans Pro", sans-serif;
+        Font-size: 16px;
+        Font-weight: 600;
+        color: rgb(85, 85, 85);
+        padding-top: 10px;
+    }
+    /*================================================= END fun facts section============================================= */
+    
+    /*================================================= Start testimonial area section============================================= */
+    
+    .testimonial-area
+    {
+        padding: 100px 0; 
+    }
+    .contanier1
+    {
+        width:50%;
+        margin:auto;
+    }
+    .testimonial-text h2
+    {
+        Font-family: "Source Sans Pro", sans-serif;
+        Font-size: 40px;
+        Font-weight: 800;
+        color: rgb(51, 51, 51);
+        text-align: center;
+    }
+    .testimonial-visual
+    {
+        background-color:#f1f1f1;
+        position: relative;
+        border-radius: 5px;
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+        margin-top: 50px;
+    }
+    .testimonial-visual::before
+    {
+        content: "";
+        position: absolute;
+        background-color: #ff305b;
+        width: 150px;
+        height: 600px;
+        left:-85px;
+        top:-213px;
+        transform: rotate(45deg);
+    }
+    .testimonial-photo
+    {
+        position: absolute;
+        float: left;
+        width: 15%;
+        margin: 40px 30px;
+    }
+    
+    .testimonial-photo img
+    {
+        border-radius: 100px;
+        width: 100%;  
+    }
+    .test-text{
+        float: left;
+        width: 85%;
+        position: relative;
+        padding: 40px 40px;
+    }
+    .test-text h3
+    {
+        font-family: 'Source Sans Pro', sans-serif;
+        font-weight: 600;
+        font-size: 26px;
+        color: #333;
+    }
+    .test-text a
+    {
+        Font-family: "Source Sans Pro", sans-serif;
+        Font-size: 15px;
+        Font-weight: 600;
+        padding-left:5px;
+        padding-top: 10px;
+        color: rgb(119, 119, 119);
+    }
+    .test-text i
+    {
+        color:rgb(119, 119, 119) ;
+        padding-top: 10px;
+    }
+    .test-text p
+    {
+        Font-family: Roboto, sans-serif;
+        Font-size: 16px;
+        line-height: 25px;
+        Font-weight: 400;
+        padding:10px 0 10px 0;
+        color: rgb(85, 85, 85)
+    }
+    
+    .stars-rating i
+    {
+        color:#f1c30d;
+    }
+    /*================================================= End testimonial area section============================================= */
+    
+    /*================================================= Start blog area section============================================= */
+    .blog-area
+    {
+        padding: 100px 0; 
+        background-color:#f1f1f1;
+    }
+    
+    .blog-text h2
+    {
+        Font-family: "Source Sans Pro", sans-serif;
+        Font-size: 40px;
+        Font-weight: 800;
+        color: rgb(51, 51, 51);
+        text-align: center;
+    }
+    .part1
+    {
+        float: left;
+        width: 33.333%;
+        padding: 15px;
+    }
+    .blog-visual
+    {
+        margin-top: 30px;
+    }
+    .blog-frame
+    {
+        position: relative;
+        overflow: hidden;
+        width: 100%;
+        padding-top: 56.25%; /* 16:9 Aspect Ratio */
+    }
+    
+     .blog-frame iframe
+    {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        border: none;
+    } 
+    .part1 img
+    {
+        width:100%;
+    }
+    .special-bg
+    {
+        background-color: #fff;
+        padding:15px;
+    }
+    .special-bg h4
+    {
+        Font-family: Roboto, sans-serif;
+        Font-size: 16px;
+        Font-weight: 400;
+        color: rgb(85, 85, 85);
+        padding:15px;
+    }
+    .special-bg a
+    {
+        Font-family: Roboto, sans-serif;
+        Font-size: 16px;
+        Font-weight: 400;
+        color: #333;
+        padding: 0px 5px 10px 10px;
+        transition: all 0.3s ease-in-out;
+    }
+    .special-bg p
+    {
+        Font-family: Roboto, sans-serif;
+        Font-size: 16px;
+        Font-weight: 400;
+        Line-height: 25px;
+        color: rgb(85, 85, 85);
+        padding:10px 10px;
+    }
+    .link-edit a
+    {
+        Font-family: "Source Sans Pro", sans-serif;
+        Font-size: 24px;
+        Font-weight: 600;
+        color: rgb(51, 51, 51);
+        padding:0px 10px;
+        
+    }
+    .special-bg a:hover
+    {
+        color: #ff305b;
+    }
+    /*=================================================End blog area section============================================= */
+    
+    
+    /*=================================================start contact us area section============================================= */
+    .contact-us
+    {
+        padding: 100px 0; 
+        text-align: center; 
+        
+    }
+    .contact-us h2
+    {
+        font-family: "Source Sans Pro", sans-serif;
+        Font-size: 40px;
+        Font-weight: 800;
+        color: rgb(51, 51, 51);
+        text-align: center;
+    }
+    
+    .contact-form
+    {
+        width: 60%;
+        margin: auto;
+        padding-top:50px ;
+    }
+    .form-control
+    {
+        width: 100%;
+        height: 40px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        padding: 6px 12px;
+        margin: 20px 0px;
+        font-family:Roboto, sans-serif ;
+        float: left;
+    }
+    .w-50
+    {
+        width: 48%;
+        float: right;
+    
+    }
+    .w-l
+    {
+        float: left; 
+    }
+    .contact-form textarea
+    {
+        height: auto;
+    
+    }
+    .form-btn
+    {
+        width: 25%;
+        background-color: #ff305b;
+        color: #ffffff;
+        padding: 0px 20px;
+        cursor: pointer;
+        transition: all 0.3s ease-in-out;
+    }
+    .form-btn:hover
+    {
+        background-color: #EC2403;
+    }
+    
+    /*=================================================End contact us area section============================================= */
+    #footer
+    {
+        text-align: center;
+        background-color: #333;
+        padding: 50px 0;
+    }
+    .footer-social
+    {
+        padding-bottom:10px;
+    }
+    .footer-social li
+    {
+        display: inline-block;
+        padding:0 10px;
+        
+    }
+    .footer-social li a
+    {
+        color: #fff;
+        transition: all 0.3s ease-in-out;
+        
+    }
+    .footer-social li a:hover
+    {
+        color: #ff305b;
+    }
+    .copyRight p
+    {
+        color: #fff;
+        font-family: "Source Sans Pro", sans-serif; 
+    }
+    .copyRight p a
+    {
+        color: #ff305b;
+        font-weight: 400;
+    }
+    .copyRight p a:hover
+    {
+        text-decoration: underline;
+    }
+    
+}
